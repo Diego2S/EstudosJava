@@ -1,0 +1,5 @@
+MARIA,exemplo@a.com,3200.00
+ALEX,exemplo@b.com,1900.00
+MARCO,exemplo@c.com,1700.50
+BOB,exemplo@c.com,3500.90
+ANNA,exemplo@d.com,3500.00
